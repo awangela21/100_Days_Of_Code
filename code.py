@@ -56,8 +56,7 @@ if choice_1 == "left":
             print("Annoyed by your cries, the troll decides to barbecue you")
         else:
             print("The choice does not exist! The troll decides to broil you")
-
-    else:
+else:
         print("Ferocious mermaids have drowned you!")
 
 if choice_1 == "right":
