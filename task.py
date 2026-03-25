@@ -57,6 +57,8 @@ if choice_1 == "left":
             print("The choice does not exist! The troll decides to broil you")
     if choice_2 == "swim":
         print("Ferocious mermaids have drowned you!")
+    else:
+        print("You chose an option that does not exist! You will be chased by rabid gorillas")
 
 if choice_1 == "right":
     print("You are eaten by a monster crocodile. You died")
